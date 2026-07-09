@@ -22,6 +22,7 @@ This repository documents my learning journey in Computer Vision using YOLOv8 an
   ## Object detection in a video
   
 <img width="1162" height="663" alt="Screenshot 2026-07-09 200016" src="https://github.com/user-attachments/assets/d8f8cf10-87cc-4e6a-892d-f4ffa0e43eb2" />
+<img width="465" height="521" alt="Screenshot 2026-07-09 233249" src="https://github.com/user-attachments/assets/90d19908-25ef-49c8-866c-2c10e6820751" />
 
 
 
