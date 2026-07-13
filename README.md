@@ -30,6 +30,15 @@ This repository documents my learning journey in Computer Vision using YOLOv8 an
 <img width="800" height="483" alt="Screenshot 2026-07-11 195414" src="https://github.com/user-attachments/assets/29957b71-de76-4a2b-9118-7e2b0d1a9842" />
 <img width="798" height="486" alt="Screenshot 2026-07-11 195400" src="https://github.com/user-attachments/assets/5a4da3f5-1ced-4b6d-9f47-5638418db19c" />
 
+## Unique vehicle counter
+-learned python data structure set to count vehicle and filter
+
+<img width="646" height="239" alt="Screenshot 2026-07-13 194131" src="https://github.com/user-attachments/assets/5b758a1d-cb8c-413f-9c72-52be2754db24" />
+<img width="325" height="364" alt="Screenshot 2026-07-13 195938" src="https://github.com/user-attachments/assets/bfd10e1a-4c03-44d3-afbd-7589b2f5544e" />
+<img width="351" height="386" alt="Screenshot 2026-07-13 195927" src="https://github.com/user-attachments/assets/108df41f-2791-441d-a71a-f7d1f0c5d38e" />
+
+
+
 
 
 
