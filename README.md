@@ -37,6 +37,18 @@ This repository documents my learning journey in Computer Vision using YOLOv8 an
 <img width="325" height="364" alt="Screenshot 2026-07-13 195938" src="https://github.com/user-attachments/assets/bfd10e1a-4c03-44d3-afbd-7589b2f5544e" />
 <img width="351" height="386" alt="Screenshot 2026-07-13 195927" src="https://github.com/user-attachments/assets/108df41f-2791-441d-a71a-f7d1f0c5d38e" />
 
+📅 Day 8 - Live Vehicle Counter Dashboard
+🚀 What I Learned
+Learned how to use cv2.putText() to display text on video frames.
+Learned how to use cv2.rectangle() to create a dashboard background.
+Displayed the live count of unique vehicles on the video instead of the terminal.
+Used a Python set to store unique tracking IDs and avoid duplicate counting.
+Filtered only vehicle classes (car, truck, bus) for counting.
+Understood how YOLO tracking IDs help identify unique objects across frames.
+
+<img width="1600" height="900" alt="Screenshot 2026-07-26 202332" src="https://github.com/user-attachments/assets/8e31ab9b-88a9-4377-9eed-45b38e4a155d" />
+
+
 
 
 
