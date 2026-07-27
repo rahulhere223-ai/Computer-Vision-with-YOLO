@@ -48,6 +48,9 @@ Understood how YOLO tracking IDs help identify unique objects across frames.
 
 <img width="1600" height="900" alt="Screenshot 2026-07-26 202332" src="https://github.com/user-attachments/assets/8e31ab9b-88a9-4377-9eed-45b38e4a155d" />
 
+Built a vehicle counting DashBoard
+<img width="889" height="591" alt="Screenshot 2026-07-27 215850" src="https://github.com/user-attachments/assets/12f92c83-37f1-4b8b-b517-5bb3543cab0a" />
+
 
 
 
